@@ -1,4 +1,4 @@
-package mongodb.modkram;
+package mongodb.sample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

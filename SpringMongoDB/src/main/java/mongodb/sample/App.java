@@ -1,4 +1,4 @@
-package mongodb.modkram;
+package mongodb.sample;
 
 /**
  * Hello world!
